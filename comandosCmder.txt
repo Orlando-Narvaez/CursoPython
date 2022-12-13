@@ -10,3 +10,11 @@ not = contrario
 
 round(variable , 2)
 
+variable.upper() = texto en mayuscula
+variable.capitalize() = Primera letra en mayuscula
+variable.strip() = eliminar espacios
+variable.lower() = texto en minuscula
+variable.replace('o', 'a') = reemplazar o por la a
+variable[0]
+len(variable) = para saber cuantos caracteres tiene
+
