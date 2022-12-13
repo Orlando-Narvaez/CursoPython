@@ -1,0 +1,2 @@
+Crear carpeta: mkdir
+crear archivo: touch.txt
