@@ -18,3 +18,6 @@ variable.replace('o', 'a') = reemplazar o por la a
 variable[0]
 len(variable) = para saber cuantos caracteres tiene
 
+separar caracteres: (Slices)
+variable[0:8:2] inicial:final:pasos
+
