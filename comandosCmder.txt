@@ -8,3 +8,5 @@ or = ||
 not = contrario
 ==, !=, <, >, <=, >=
 
+round(variable, 2)
+
