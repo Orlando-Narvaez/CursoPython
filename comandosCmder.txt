@@ -1,2 +1,10 @@
 Crear carpeta: mkdir
 crear archivo: touch.txt
+
+str(variables) = pasar a cadena
+
+and = &&
+or = ||
+not = contrario
+==, !=, <, >, <=, >=
+
