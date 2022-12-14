@@ -24,3 +24,5 @@ variable[0:8:2] inicial:final:pasos
 variable.append(valorAgregar)
 variable.pop(indice que quiero borrar)
 
+tuplas son inmutables
+
