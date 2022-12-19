@@ -23,7 +23,7 @@ def run():
     #    print(pais)
 
     for pais, poblacion in poblacionPaises.items():
-        print(pais + " Tiene " + str(poblacion) +  " Habitantes")    
+        print(pais + " Tiene " + str(poblacion) +  " Habitantes<")    
 
 
 
